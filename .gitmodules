@@ -1,9 +1,4 @@
 [submodule "verona"]
 	path = verona
 	url = git@github.com:zatkh/verona.git
-[submodule "snmalloc"]
-	path = snmalloc
-	url = git@github.com:zatkh/snmalloc.git
-[submodule "wasm-micro-runtime"]
-	path = wasm-micro-runtime
-	url = git@github.com:zatkh/wasm-micro-runtime.git
+
